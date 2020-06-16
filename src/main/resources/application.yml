@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: configurations
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/rtupakula-nisum-com/Configurations.git
